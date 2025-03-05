@@ -374,3 +374,4 @@ const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
 Дополнительная информация для branch2 - коммит 1
+Дополнительная информация для branch2 - коммит 2
